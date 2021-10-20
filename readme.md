@@ -1,3 +1,4 @@
 #hi
 #wellcome to git
-#suntem remote
+
+#am revenit pe branchul local 
